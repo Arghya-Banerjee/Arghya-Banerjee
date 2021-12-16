@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Connections
 
-[Arghya Banerjee](https://g.dev/arghyabanerjee2002)
+Google Dev Profile - [Arghya Banerjee](https://g.dev/arghyabanerjee2002)
 
 Discord - CrazyCat#6900
 
