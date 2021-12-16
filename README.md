@@ -8,3 +8,15 @@
 CrazyCat-Cyber/CrazyCat-Cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Connections
+
+[Arghya Banerjee](https://g.dev/arghyabanerjee2002)
+
+Discord - CrazyCat#6900
+
+
+
+## Certificates Earned Till Date
+
+![Arghya Banerjee                ](https://user-images.githubusercontent.com/72212592/146411378-0cce939e-5af8-46f9-bb5c-0ec0bcfe6307.png)
