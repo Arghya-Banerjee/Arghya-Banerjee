@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and machine learning
 - 🌱 I’m currently learning machine learning in python
 - 💞️ I’m looking to collaborate on someone trustful who can help me with my virtual assistant project
-- 📫 You can reach me by just making a readme file in the repository with ur name and email
+- 📫 You can reach me by my email arghya.banerjee.dev@gmail.com
 
 <!---
 CrazyCat-Cyber/CrazyCat-Cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
