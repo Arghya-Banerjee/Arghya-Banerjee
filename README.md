@@ -9,7 +9,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=crazycat-cyber&show_icons=true&theme=tokyonight" />
 
-<img align="left" width="47%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycat-cyber&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" width="47%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycat-cyber&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 <br></br>
 <br></br>
