@@ -53,11 +53,15 @@
 <a href="https://g.dev/arghyabanerjee2002" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72212592/147922695-58d745b7-a25a-4ccd-affa-0eb1bf5c4ce5.png" alt="arghyabanerjee2002" height="30" width="40" /></a>
 
 
-## Certificates Earned Till Date
+<!-- ## Certificates Earned Till Date
+  
+<p>
+<img align="left" width="47%" src ="https://user-images.githubusercontent.com/72212592/146411378-0cce939e-5af8-46f9-bb5c-0ec0bcfe6307.png" />
 
-![Arghya Banerjee                ](https://user-images.githubusercontent.com/72212592/146411378-0cce939e-5af8-46f9-bb5c-0ec0bcfe6307.png)
-
-![certificate](https://user-images.githubusercontent.com/72212592/147873200-7a37c0fd-00e2-41df-bab1-bcd2b4a70bc5.png)
-
-![ML Certificate (1)-1](https://user-images.githubusercontent.com/72212592/148016069-5e09a4a5-07cb-4bfa-a592-4843ab034dec.jpg)
-
+<img align="left" width="47%" src ="https://user-images.githubusercontent.com/72212592/147873200-7a37c0fd-00e2-41df-bab1-bcd2b4a70bc5.png" />
+</p>
+<marquee behavior="alternate" direction="left">   </marquee>
+<p>
+<img align="left" width="47%" src ="https://user-images.githubusercontent.com/72212592/148016069-5e09a4a5-07cb-4bfa-a592-4843ab034dec.jpg" />
+</p>
+ -->
