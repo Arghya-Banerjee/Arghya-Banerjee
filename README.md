@@ -1,23 +1,27 @@
 ## 👋 Hi, I’m Arghya Banerjee
 - 👀 I’m interested in gaming and machine learning
 - 🌱 I’m currently learning machine learning in python
-- 💞️ I’m looking to collaborate on someone trustful who can help me with my virtual assistant project
+- 💞️ I’m looking to contribute
 - 📫 You can reach me by my email arghya.banerjee.dev@gmail.com
 
 
+<img align="left" width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=arghya-banerjee&show_icons=true&theme=tokyonight" />
 
-<img align="left" width="47%" height="160px" src="https://github-readme-stats.vercel.app/api?username=arghya-banerjee&show_icons=true&theme=tokyonight" />
 
-<img align="left" width="47%" height = "165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazycat-cyber&show_icons=true&locale=en&layout=compact" alt="crazycat-cyber" />
+<img align="right" width="49%" height = "165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya-banerjee&show_icons=true&locale=en&layout=compact" alt="crazycat-cyber" />
 
+
+
+<br></br>
+<br></br>
+
+<img align="left" width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=arghya-banerjee&repo=lucy" />
+<img align="right" width="43%" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=arghya-banerjee&repo=water_notification" />
 
 <br></br>
 <br></br>
 <br></br>
 <br></br>
-
-
-
 
 
 ## Interested Languages
