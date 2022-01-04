@@ -6,7 +6,7 @@
 
 
 
-<img align="left" width="47%" height="160px" src="https://github-readme-stats.vercel.app/api?username=crazycat-cyber&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" height="160px" src="https://github-readme-stats.vercel.app/api?username=arghya-banerjee&show_icons=true&theme=tokyonight" />
 
 <img align="left" width="47%" height = "165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazycat-cyber&show_icons=true&locale=en&layout=compact" alt="crazycat-cyber" />
 
