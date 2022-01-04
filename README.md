@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @CrazyCat-Cyber
+## 👋 Hi, I’m Arghya Banerjee
 - 👀 I’m interested in gaming and machine learning
 - 🌱 I’m currently learning machine learning in python
 - 💞️ I’m looking to collaborate on someone trustful who can help me with my virtual assistant project
