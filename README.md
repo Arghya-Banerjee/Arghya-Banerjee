@@ -10,16 +10,6 @@
 
 <img align="right" width="49%" height = "165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya-banerjee&show_icons=true&locale=en&layout=compact" alt="crazycat-cyber" />
 
-
-
-<br></br>
-<br></br>
-
-<img align="left" width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=arghya-banerjee&repo=lucy" />
-<img align="right" width="43%" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=arghya-banerjee&repo=water_notification" />
-
-<br></br>
-<br></br>
 <br></br>
 <br></br>
 <br></br>
