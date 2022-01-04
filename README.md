@@ -7,7 +7,9 @@
 
 <img align="left" width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=arghya-banerjee&show_icons=true&theme=tokyonight" />
 
+
 <img align="right" width="49%" height = "165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya-banerjee&show_icons=true&locale=en&layout=compact" alt="crazycat-cyber" />
+
 
 
 <br></br>
