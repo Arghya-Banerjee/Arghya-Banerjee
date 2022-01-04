@@ -5,16 +5,16 @@
 - 📫 You can reach me by my email arghya.banerjee.dev@gmail.com
 
 
-<img align="left" width="43%" height="160px" src="https://github-readme-stats.vercel.app/api?username=crazycat-cyber&show_icons=true&theme=tokyonight" />
+<img align="left" width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=arghya-banerjee&show_icons=true&theme=tokyonight" />
 
-<img align="left" width="47%" height = "165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazycat-cyber&show_icons=true&locale=en&layout=compact" alt="crazycat-cyber" />
+<img align="right" width="49%" height = "165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya-banerjee&show_icons=true&locale=en&layout=compact" alt="crazycat-cyber" />
 
 
 <br></br>
 <br></br>
 
 <img align="left" width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=arghya-banerjee&repo=lucy" />
-<img align="left" width="43%" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=arghya-banerjee&repo=water_notification" />
+<img align="right" width="43%" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=arghya-banerjee&repo=water_notification" />
 
 <br></br>
 <br></br>
