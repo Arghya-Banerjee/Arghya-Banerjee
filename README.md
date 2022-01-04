@@ -5,18 +5,18 @@
 - 📫 You can reach me by my email arghya.banerjee.dev@gmail.com
 
 
-<img src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazycat-cyber&repo=lucy)](https://github.com/anuraghazra/github-readme-stats)" />
+<img src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arghya-banerjee&repo=lucy)](https://github.com/anuraghazra/github-readme-stats)" />
 
-<img align="left" width="47%" height="160px" src="https://github-readme-stats.vercel.app/api?username=crazycat-cyber&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" height="160px" src="https://github-readme-stats.vercel.app/api?username=arghya-banerjee&show_icons=true&theme=tokyonight" />
 
-<img align="left" width="47%" height = "160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazycat-cyber&show_icons=true&locale=en&layout=compact" alt="crazycat-cyber" />
+<img align="left" width="47%" height = "160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya-banerjee&show_icons=true&locale=en&layout=compact" alt="arghya-banerjee" />
 
 <br></br>
 <br></br>
 <br></br>
 <br></br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazycat-cyber&" alt="crazycat-cyber" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghya-banerjee&" alt="arghya-banerjee" /></p>
 
 
 ## Interested Languages
