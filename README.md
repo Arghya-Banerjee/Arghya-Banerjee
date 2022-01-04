@@ -67,3 +67,6 @@
 ![Arghya Banerjee                ](https://user-images.githubusercontent.com/72212592/146411378-0cce939e-5af8-46f9-bb5c-0ec0bcfe6307.png)
 
 ![certificate](https://user-images.githubusercontent.com/72212592/147873200-7a37c0fd-00e2-41df-bab1-bcd2b4a70bc5.png)
+
+![ML Certificate (1)-1](https://user-images.githubusercontent.com/72212592/148016069-5e09a4a5-07cb-4bfa-a592-4843ab034dec.jpg)
+
