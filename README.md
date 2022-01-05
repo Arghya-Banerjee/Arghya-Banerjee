@@ -1,8 +1,5 @@
-## 👋 Hi, I’m Arghya Banerjee
-- 👀 I’m interested in gaming and machine learning
-- 🌱 I’m currently learning machine learning in python
-- 💞️ I’m looking to contribute
-- 📫 You can reach me by my email arghya.banerjee.dev@gmail.com
+![Profile](https://user-images.githubusercontent.com/72212592/148203444-ae357187-eee3-4688-bb91-852e7527440e.png)
+
 
 
 <img align="left" width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=arghya-banerjee&show_icons=true&theme=tokyonight" />
