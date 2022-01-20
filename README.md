@@ -1,14 +1,25 @@
-## 👋 Hi, I’m Arghya Banerjee
-- 👀 I’m interested in gaming and machine learning
-- 🌱 I’m currently learning machine learning in python
-- 💞️ I’m looking to contribute
-- 📫 You can reach me by my email arghya.banerjee.dev@gmail.com
+<h3 align="center"><img src="https://komarev.com/ghpvc/?username=Arghya-Banerjee&label=Profile%20views&color=0e75b6&style=flat" alt="Arghya-Banerjee" /></h3>
 
+<h1 align = "center" > Hi 👋, I am Arghya Banerjee </h1>
+
+
+
+<h3 align = "center" > Passionate Python Developer <h3>
+<h3 align = "center" > Eager to help in any project possible <h3>
+    
+<hr>
+
+
+-  🌱 I’m currently learning **Tensorflow and Pandas**
+-  📫 How to reach me **arghya.banerjee.dev@gmail.com**
+
+<hr>
+    
 <br>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Arghya-Banerjee&show_icons=true&theme=onedark"/> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghya-Banerjee&theme=onedark"/> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghya-Banerjee&theme=cobalt"/> 
 </p>
 
 
