@@ -1,16 +1,34 @@
-![Profile](https://user-images.githubusercontent.com/72212592/148203444-ae357187-eee3-4688-bb91-852e7527440e.png)
+
+<h3 align="center"><img src="https://komarev.com/ghpvc/?username=Arghya-Banerjee&label=Profile%20views&color=0e75b6&style=flat" alt="Arghya-Banerjee" /></h3>
+
+
+<h1 align = "center" > Hi 👋, I am Arghya Banerjee </h1>
 
 
 
-<img align="left" width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=arghya-banerjee&show_icons=true&theme=tokyonight" />
+<h3 align = "center" > Passionate Python Developer <h3>
+<h3 align = "center" > Eager to help in any project possible <h3>
+    
+<hr>
 
 
-<img align="right" width="49%" height = "165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya-banerjee&show_icons=true&locale=en&layout=compact" alt="crazycat-cyber" />
+-  🌱 I’m currently learning **Tensorflow and Pandas**
+-  📫 How to reach me **arghya.banerjee.dev@gmail.com**
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<hr>
+    
+<br>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arghya-Banerjee&show_icons=true&theme=onedark"/> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghya-Banerjee&theme=cobalt"/> 
+</p>
+
+
+
+[![Varun's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arghya-Banerjee&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 ## Interested Languages
