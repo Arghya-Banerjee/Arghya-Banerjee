@@ -4,24 +4,17 @@
 - 💞️ I’m looking to contribute
 - 📫 You can reach me by my email arghya.banerjee.dev@gmail.com
 
+<br>
 
-<img align="left" width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=arghya-banerjee&show_icons=true&theme=tokyonight" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arghya-Banerjee&show_icons=true&theme=onedark"/> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghya-Banerjee&theme=onedark"/> 
+</p>
 
 
-<img align="right" width="49%" height = "165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya-banerjee&show_icons=true&locale=en&layout=compact" alt="crazycat-cyber" />
 
+[![Varun's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arghya-Banerjee&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<br></br>
-<br></br>
-
-<img align="left" width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=arghya-banerjee&repo=lucy" />
-<img align="right" width="43%" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=arghya-banerjee&repo=water_notification" />
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
 
 ## Interested Languages
