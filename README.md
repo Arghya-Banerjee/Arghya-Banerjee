@@ -67,6 +67,9 @@
 <a href="https://auth.geeksforgeeks.org/user/bgw9r7i2iu0pke4sx5pvkuaes09qmkyu1w2uq1e9/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bgw9r7i2iu0pke4sx5pvkuaes09qmkyu1w2uq1e9/profile" height="30" width="40" /></a>
 <a href="https://discord.gg/CF3YFEHaAU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CrazyCat#6900" height="30" width="40" /></a>
 <a href="https://g.dev/arghyabanerjee2002" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72212592/147922695-58d745b7-a25a-4ccd-affa-0eb1bf5c4ce5.png" alt="arghyabanerjee2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arghya-banerjee-32a018229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya-banerjee-32a018229" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/arghya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arghya17" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@arghya.banerjee.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@arghya.banerjee.dev" height="30" width="40" /></a>
 
 
 <!-- ## Certificates Earned Till Date
