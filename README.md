@@ -12,7 +12,7 @@
 <hr>
 
 
--  🌱 I’m currently learning **Tensorflow and Pandas**
+-  🌱 I’m currently learning **Data Analytics using python**
 -  📫 How to reach me **arghya.banerjee.dev@gmail.com**
 
 <hr>
