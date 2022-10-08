@@ -71,16 +71,9 @@
 <a href="https://www.hackerearth.com/@arghya.banerjee.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@arghya.banerjee.dev" height="30" width="40" /></a>
 <a href="https://medium.com/@arghya.banerjee.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arghya.banerjee.dev" height="30" width="40" /></a>
 
+<br/>
 
-<!-- ## Certificates Earned Till Date
+[![@arghya's Holopin board](https://holopin.io/api/user/board?user=arghya)](https://holopin.io/@arghya)
+
   
-<p>
-<img align="left" width="47%" src ="https://user-images.githubusercontent.com/72212592/146411378-0cce939e-5af8-46f9-bb5c-0ec0bcfe6307.png" />
 
-<img align="left" width="47%" src ="https://user-images.githubusercontent.com/72212592/147873200-7a37c0fd-00e2-41df-bab1-bcd2b4a70bc5.png" />
-</p>
-<marquee behavior="alternate" direction="left">   </marquee>
-<p>
-<img align="left" width="47%" src ="https://user-images.githubusercontent.com/72212592/148016069-5e09a4a5-07cb-4bfa-a592-4843ab034dec.jpg" />
-</p>
- -->
