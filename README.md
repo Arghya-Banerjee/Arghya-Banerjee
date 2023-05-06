@@ -6,7 +6,7 @@
 
 
 
-<h3 align = "center" > Passionate Python Developer <h3>
+<h3 align = "center" > Passionate Data Science Learner <h3>
 <h3 align = "center" > Eager to help in any project possible <h3>
     
 <hr>
