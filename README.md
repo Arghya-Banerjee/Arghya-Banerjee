@@ -1,7 +1,4 @@
 
-<h3 align="center"><img src="https://komarev.com/ghpvc/?username=Arghya-Banerjee&label=Profile%20views&color=0e75b6&style=flat" alt="Arghya-Banerjee" /></h3>
-
-
 <h1 align = "center" > Hi 👋, I am Arghya Banerjee </h1>
 
 
