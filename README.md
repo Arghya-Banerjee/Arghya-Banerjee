@@ -3,23 +3,30 @@
 
 
 
+
 <h3 align = "center" > Passionate Data Science Learner <h3>
 <h3 align = "center" > Eager to help in any project possible <h3>
+
+
     
-<hr>
+![rainbow](https://github.com/Arghya-Banerjee/Arghya-Banerjee/assets/72212592/9aa37a54-cf0d-42f3-bf39-a3d5da307364)
 
 
 -  🌱 I’m currently learning **Machine Learning using python**
 -  📫 How to reach me **arghya.banerjee.dev@gmail.com**
 
-<hr>
+![rainbow](https://github.com/Arghya-Banerjee/Arghya-Banerjee/assets/72212592/9aa37a54-cf0d-42f3-bf39-a3d5da307364)
     
 <br>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arghya-Banerjee&show_icons=true&theme=onedark"/> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghya-Banerjee&theme=cobalt"/> 
-</p>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arghya-Banerjee&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Arghya-Banerjee&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
 
 
