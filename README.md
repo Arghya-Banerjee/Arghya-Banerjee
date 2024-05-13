@@ -1,19 +1,26 @@
 
-<h1> Hi 👋, I am Arghya Banerjee </h1>
+<h1 align="center"> Hello there! My name is Arghya Banerjee. 👋 </h1>
+
+<p align="center">👋 Hello there! I'm Arghya Banerjee, a pre-final year Computer Science Engineering student at VIT Bhopal University, specializing in Core Computer Science. 🎓 My passion lies in the realms of Data Science, Data Analysis, and AI, where I thrive on leveraging data to derive insights and build intelligent systems. </p>
+
+<p align="center">🚀 I've actively contributed to Hacktoberfest in both 2022 and 2023, honing my skills and collaborating with the vibrant open-source community. One of my most exhilarating projects was working on Ebird, an expansive global database for archiving birding data. 🦅 It was a journey filled with learning and excitement, showcasing my dedication to meaningful projects. </p>
+
+<p align="center">🔍 Currently, I'm on a quest to expand my knowledge and expertise by delving into modern data analytics tools. My aim is to sharpen my skills and stay at the forefront of advancements in the field. </p>
+
+<p align="center">💡 When I'm not coding, you can find me indulging in my hobbies! I love traveling to new places, capturing moments through photography 📷, and playing football ⚽. And during downtime, you'll likely find me binge-watching Netflix 📺, gaming with friends 🎮, or engaging in long conversations over coffee ☕. </p>
+
+<p align="center">🌟 If you share similar interests or just want to connect, feel free to reach out! Let's collaborate, learn, and innovate together. </p>
 
 
-
-
-<h3> Passionate Data Science Learner <h3>
-<h3> Eager to help in any project possible <h3>
-
-
+<p align="center"><a href="https://www.linkedin.com/in/arghya-banerjee-32a018229/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/arghya.banerjee__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+</p>
     
 ![rainbow](https://github.com/Arghya-Banerjee/Arghya-Banerjee/assets/72212592/9aa37a54-cf0d-42f3-bf39-a3d5da307364)
 
+<p align="center">🌱 I’m currently learning Machine Learning using python </p>
 
--  🌱 I’m currently learning **Machine Learning using python**
--  📫 How to reach me **arghya.banerjee.dev@gmail.com**
+<p align="center">📫 How to reach me arghya.banerjee.dev@gmail.com </p>
+
 
 ![rainbow](https://github.com/Arghya-Banerjee/Arghya-Banerjee/assets/72212592/9aa37a54-cf0d-42f3-bf39-a3d5da307364)
     
