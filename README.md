@@ -5,7 +5,7 @@
 
 <p align="center">🚀 I've actively contributed to Hacktoberfest in both 2022 and 2023, honing my skills and collaborating with the vibrant open-source community. One of my most exhilarating projects was working on Ebird, an expansive global database for archiving birding data. 🦅 It was a journey filled with learning and excitement, showcasing my dedication to meaningful projects. </p>
 
-<p align="center">🔍 Currently, I'm on a quest to expand my knowledge and expertise by delving into modern data analytics tools. My aim is to sharpen my skills and stay at the forefront of advancements in the field. </p>
+<p align="center">🔍 Currently, I'm on a quest to expand my knowledge and expertise by delving into modern data analytics tools. My aim is to sharpen my skills and stay at the forefront of advancements in the field. </p> 
 
 <p align="center">💡 When I'm not coding, you can find me indulging in my hobbies! I love traveling to new places, capturing moments through photography 📷, and playing football ⚽. And during downtime, you'll likely find me binge-watching Netflix 📺, gaming with friends 🎮, or engaging in long conversations over coffee ☕. </p>
 
