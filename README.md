@@ -18,6 +18,8 @@
 
 <p>🔗 Connect with me on my socials below.</p>
 
+<br>
+
 <p align="center"><a href="https://www.linkedin.com/in/arghya-banerjee-32a018229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height=25></a> <a href="https://www.instagram.com/arghya.banerjee__/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height=25></a>
 </p>
     
