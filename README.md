@@ -1,18 +1,24 @@
 
 <h1 align="center"> Hello there! My name is Arghya Banerjee. 👋 </h1>
 
-<p align="center">🎓 Pre-final year <b>Computer Science Engineering</b> student at <b>VIT Bhopal University</b></p>
 
-<p align="center">🚀 Specializes in Core Computer Science, passionate about <b>Data Science, Data Analysis, and AI</b></p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Alt Text" width="330" align="right">
 
-<p align="center">💻 Actively contributed to <b>Hacktoberfest in 2022 and 2023</b>, with notable work on Ebird</p>
+<p>🎓 Pre-final year <b>Computer Science Engineering</b> student at <b>VIT Bhopal University</b></p>
+
+<p>🚀 Specializes in Core Computer Science, passionate about <b>Data Science, Data Analysis, and AI</b></p>
+
+<p>💻 Actively contributed to <b>Hacktoberfest in 2022 and 2023</b>, with notable work on Ebird</p>
  
-<p align="center">🔍 Currently focusing on expanding knowledge in <b>modern data analytics tools</b></p>
+<p>🔍 Currently focusing on expanding knowledge in <b>modern data analytics tools</b></p>
 
-<p align="center">💡 Hobbies include traveling, photography, football, Netflix, gaming, and coffee chats</p>
+<p>💡 Hobbies include traveling, photography, football, Netflix, gaming, and coffee chats</p>
 
-<p align="center">🌟 Open to collaboration and eager to connect with like-minded individuals.</p>
+<p>🌟 Open to collaboration and eager to connect with like-minded individuals.</p>
 
+<p>🔗 Connect with me on my socials below.</p>
+
+<br></br>
 
 <p align="center"><a href="https://www.linkedin.com/in/arghya-banerjee-32a018229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height=25></a> <a href="https://www.instagram.com/arghya.banerjee__/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height=25></a>
 </p>
@@ -43,14 +49,17 @@
 
 
 
-<h2 align='center'>Interested Languages</h2> 
+<h2 align='center'>Languages and Tools</h2> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
 </p>
 
 <h2 align='center'> Framework </h2>
