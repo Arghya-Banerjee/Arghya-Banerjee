@@ -41,45 +41,62 @@
 
 
 
-## Interested Languages
+<h2 align='center'>Interested Languages</h2> 
 
-<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+</p>
 
-## Framework
+<h2 align='center'> Framework </h2>
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" />
+</p>
 
 
-## IDE Usage
+<h2 align='center'> IDE Usage </h2>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+</p>
 
-## Version Control
+<h2 align='center'> Version Control </h2>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Git%20LFS-F64935.svg?style=for-the-badge&logo=Git-LFS&logoColor=white" />
+</p>
 
-## OS Usage
+<h2 align='center'> OS Usage </h2>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" />
+</p>
 
-## Connections
+<h2 align='center'> Connections </h2>
 
-<a href="https://stackoverflow.com/users/17673526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17673526" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arghya_banerjee2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arghya_banerjee2" height="30" width="40" /></a>
-<a href="https://leetcode.com/Arghya-Banerjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Arghya-Banerjee" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bgw9r7i2iu0pke4sx5pvkuaes09qmkyu1w2uq1e9/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bgw9r7i2iu0pke4sx5pvkuaes09qmkyu1w2uq1e9/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/CF3YFEHaAU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CrazyCat#6900" height="30" width="40" /></a>
-<a href="https://g.dev/arghyabanerjee2002" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72212592/147922695-58d745b7-a25a-4ccd-affa-0eb1bf5c4ce5.png" alt="arghyabanerjee2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arghya-banerjee-32a018229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya-banerjee-32a018229" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/arghya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arghya17" height="30" width="40" /></a>
+<p align='center'>
+<a href="https://stackoverflow.com/users/17673526" target="blank"><img align="center" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=whiteg" alt="17673526"/></a>
+<a href="https://www.hackerrank.com/arghya_banerjee2" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="arghya_banerjee2" /></a>
+<a href="https://leetcode.com/Arghya-Banerjee/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Arghya-Banerjee" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bgw9r7i2iu0pke4sx5pvkuaes09qmkyu1w2uq1e9/profile" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="bgw9r7i2iu0pke4sx5pvkuaes09qmkyu1w2uq1e9/profile' /></a>
+<a href="https://discord.gg/CF3YFEHaAU" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="CrazyCat#6900" /></a>
+<a href="https://codeforces.com/profile/arghya17" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="arghya17" /></a>
+</p>
 
 <br/>
+
+<h2 align='center'> Badge Display Board </h2>
 
 [![@arghya's Holopin board](https://holopin.io/api/user/board?user=arghya)](https://holopin.io/@arghya)
 
