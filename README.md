@@ -1,13 +1,13 @@
 
 <h1 align="center"> Hello there! My name is Arghya Banerjee. 👋 </h1>
 
-<p align="center">🎓 Pre-final year Computer Science Engineering student at VIT Bhopal University</p>
+<p align="center">🎓 Pre-final year <b>Computer Science Engineering</b> student at <b>VIT Bhopal University</b></p>
 
-<p align="center">🚀 Specializes in Core Computer Science, passionate about Data Science, Data Analysis, and AI</p>
+<p align="center">🚀 Specializes in Core Computer Science, passionate about <b>Data Science, Data Analysis, and AI</b></p>
 
-<p align="center">💻 Actively contributed to Hacktoberfest in 2022 and 2023, with notable work on Ebird</p>
+<p align="center">💻 Actively contributed to <b>Hacktoberfest in 2022 and 2023</b>, with notable work on Ebird</p>
  
-<p align="center">🔍 Currently focusing on expanding knowledge in modern data analytics tools</p>
+<p align="center">🔍 Currently focusing on expanding knowledge in <b>modern data analytics tools</b></p>
 
 <p align="center">💡 Hobbies include traveling, photography, football, Netflix, gaming, and coffee chats</p>
 
