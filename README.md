@@ -1,15 +1,17 @@
 
 <h1 align="center"> Hello there! My name is Arghya Banerjee. 👋 </h1>
 
-<p align="center">👋 Hello there! I'm Arghya Banerjee, a pre-final year Computer Science Engineering student at VIT Bhopal University, specializing in Core Computer Science. 🎓 My passion lies in the realms of Data Science, Data Analysis, and AI, where I thrive on leveraging data to derive insights and build intelligent systems. </p>
+<p align="center">🎓 Pre-final year Computer Science Engineering student at VIT Bhopal University</p>
 
-<p align="center">🚀 I've actively contributed to Hacktoberfest in both 2022 and 2023, honing my skills and collaborating with the vibrant open-source community. One of my most exhilarating projects was working on Ebird, an expansive global database for archiving birding data. 🦅 It was a journey filled with learning and excitement, showcasing my dedication to meaningful projects. </p>
+<p align="center">🚀 Specializes in Core Computer Science, passionate about Data Science, Data Analysis, and AI</p>
 
-<p align="center">🔍 Currently, I'm on a quest to expand my knowledge and expertise by delving into modern data analytics tools. My aim is to sharpen my skills and stay at the forefront of advancements in the field. </p>
+<p align="center">💻 Actively contributed to Hacktoberfest in 2022 and 2023, with notable work on Ebird</p>
  
-<p align="center">💡 When I'm not coding, you can find me indulging in my hobbies! I love traveling to new places, capturing moments through photography 📷, and playing football ⚽. And during downtime, you'll likely find me binge-watching Netflix 📺, gaming with friends 🎮, or engaging in long conversations over coffee ☕. </p>
+<p align="center">🔍 Currently focusing on expanding knowledge in modern data analytics tools</p>
 
-<p align="center">🌟 If you share similar interests or just want to connect, feel free to reach out! Let's collaborate, learn, and innovate together. </p>
+<p align="center">💡 Hobbies include traveling, photography, football, Netflix, gaming, and coffee chats</p>
+
+<p align="center">🌟 Open to collaboration and eager to connect with like-minded individuals.</p>
 
 
 <p align="center"><a href="https://www.linkedin.com/in/arghya-banerjee-32a018229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height=25></a> <a href="https://www.instagram.com/arghya.banerjee__/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height=25></a>
