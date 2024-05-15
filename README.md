@@ -12,7 +12,7 @@
 <p align="center">🌟 If you share similar interests or just want to connect, feel free to reach out! Let's collaborate, learn, and innovate together. </p>
 
 
-<p align="center"><a href="https://www.linkedin.com/in/arghya-banerjee-32a018229/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/arghya.banerjee__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<p align="center"><a href="https://www.linkedin.com/in/arghya-banerjee-32a018229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height=25></a> <a href="https://www.instagram.com/arghya.banerjee__/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height=25></a>
 </p>
     
 ![rainbow](https://github.com/Arghya-Banerjee/Arghya-Banerjee/assets/72212592/9aa37a54-cf0d-42f3-bf39-a3d5da307364)
