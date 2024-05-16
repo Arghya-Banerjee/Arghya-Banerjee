@@ -97,11 +97,11 @@
 <h2 align='center'> Connections </h2>
 
 <p align='center'>
-<a href="https://stackoverflow.com/users/17673526" target="blank"><img align="center" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=whiteg" alt="17673526"/></a>
-<a href="https://www.hackerrank.com/arghya_banerjee2" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="arghya_banerjee2" /></a>
-<a href="https://leetcode.com/Arghya-Banerjee/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Arghya-Banerjee" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bgw9r7i2iu0pke4sx5pvkuaes09qmkyu1w2uq1e9/profile" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="bgw9r7i2iu0pke4sx5pvkuaes09qmkyu1w2uq1e9/profile' /></a>
-<a href="https://discord.gg/CF3YFEHaAU" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="CrazyCat#6900" /></a>
+<a href="https://stackoverflow.com/users/17673526" target="blank"><img align="center" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=whiteg" alt="17673526"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/arghya_banerjee2" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="arghya_banerjee2" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/Arghya-Banerjee/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Arghya-Banerjee" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/bgw9r7i2iu0pke4sx5pvkuaes09qmkyu1w2uq1e9/profile" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="bgw9r7i2iu0pke4sx5pvkuaes09qmkyu1w2uq1e9/profile" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/CF3YFEHaAU" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="CrazyCat#6900" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/arghya17" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="arghya17" /></a>
 </p>
 
