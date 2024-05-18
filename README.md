@@ -12,7 +12,7 @@
  
 <p>🔍 Currently focusing on expanding knowledge in <b>modern data analytics tools</b></p>
 
-<p>💡 Hobbies include traveling, photography, football, Netflix, gaming, and coffee chats</p>
+<p>💡 Hobbies include traveling, photography, football, Netflix and coffee chats</p>
 
 <p>🌟 Open to collaboration and eager to connect with like-minded individuals.</p>
 
