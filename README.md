@@ -6,7 +6,7 @@
 
 <p>🎓 Pre-final year <b>Computer Science Engineering</b> student at <b>VIT Bhopal University</b></p>
 
-<p>🚀 Specializes in Core Computer Science, passionate about <b>Data Science, Data Analysis, and AI</b></p>
+<p>🚀 Specializes in Core Computer Science, passionate about <b>GoLang and Backend Development</b></p>
 
 <p>💻 Actively contributed to <b>Hacktoberfest in 2022 and 2023</b>, with notable work on Ebird</p>
  
