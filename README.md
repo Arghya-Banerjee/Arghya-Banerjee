@@ -10,7 +10,7 @@
 
 <p>💻 Actively contributed to <b>Hacktoberfest in 2022 and 2023</b>, with notable work on Ebird</p>
  
-<p>🔍 Currently focusing on expanding knowledge in <b>modern data analytics tools</b></p>
+<p>🔍 Currently focusing on expanding knowledge in <b>modern backend development</b></p>
 
 <p>💡 Hobbies include traveling, photography, football, Netflix and coffee chats</p>
 
@@ -25,7 +25,7 @@
     
 ![rainbow](https://github.com/Arghya-Banerjee/Arghya-Banerjee/assets/72212592/9aa37a54-cf0d-42f3-bf39-a3d5da307364)
 
-<p align="center">🌱 I’m currently learning Machine Learning using python </p>
+<p align="center">🌱 I’m currently learning Backend Development in GoLang </p>
 
 <p align="center">📫 How to reach me arghya.banerjee.dev@gmail.com </p>
 
