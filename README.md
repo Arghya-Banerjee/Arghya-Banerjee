@@ -1,5 +1,6 @@
 
-<h1 align="center"> Hello there! My name is Arghya Banerjee. 👋 </h1>
+![github-header-image](https://github.com/user-attachments/assets/06c8af36-9f23-4289-9d46-c48c4b42c1b4)
+
 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Alt Text" width="330" align="right">
