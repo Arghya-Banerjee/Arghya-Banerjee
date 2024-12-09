@@ -8,7 +8,7 @@
 
 <p>🚀 Specializes in Core Computer Science, passionate about <b>C# and .Net Development</b></p>
 
-<p>💻 Actively contributed to <b>Hacktoberfest in 2022 and 2023</b>, with notable work on Ebird</p>
+<p>💻 Actively contributed to <b>Hacktoberfest in 2022, 2023 and 2024</b>, with notable work on Ebird</p>
  
 <p>🔍 Currently focusing on expanding knowledge in <b>modern backend development</b></p>
 
